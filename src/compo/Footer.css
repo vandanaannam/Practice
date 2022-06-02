@@ -1,0 +1,24 @@
+.footer{
+    width:100%;
+    height:8vh;
+    border:3px solid red;
+    background-color: #15133C;
+    margin-top: 2%;
+}
+.col-1-1{
+    border:1px solid white;
+    width:50%;
+    justify-content: center;
+    display: flex;
+    margin:0 5%;
+}
+ul{
+    list-style-type: none;
+}
+.icon{
+    color:aliceblue;
+    margin-left:7px;
+}
+p{
+    color:aliceblue;
+}
